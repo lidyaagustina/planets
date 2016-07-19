@@ -1,6 +1,9 @@
 hello
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 05649d8... Another edit
 
 Im testing herer 
 >>>>>>> parent of 05649d8... Another edit
